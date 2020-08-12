@@ -1,0 +1,15 @@
+Test Case #1:
+1. Open “Notepad”
+2. Open “Help” menu item
+3. Press “About Notepad”
+4. Press “OK” button
+Test Case #2:
+1. Open “Notepad”
+2. Type current date
+3. Clear the results
+Test Case #3
+1. Open “Notepad”
+2. Open “Edit” menu item
+3. Press “Time/Date” in dropdown menu
+4. Confirm that the test is displayed in "Notepad"
+5. Clear the results
